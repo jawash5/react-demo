@@ -3,7 +3,7 @@
  * @param preState 之前的对象
  * @param action 动作对象
  */
-import { INCREMENT, DECREMENT } from './constant'
+import { INCREMENT, DECREMENT } from '../constant'
 
 const initState = 0
 
